@@ -17,3 +17,5 @@ A bank has noticed an increase in its churn rates. A sample of 10,000 customers 
 # Data Processing
 
 <img src="https://github.com/JMarcoOviedo/Bank_Customer_Churn-Model/blob/main/images/data.png"/>
+
+Here is the first five objects in the data set. For our ANN model we will not include the columns 'RowNumber', 'CustomerId', 'Surname' because they will not provide any useful information to our prediction model.
