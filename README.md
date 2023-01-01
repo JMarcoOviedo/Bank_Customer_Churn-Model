@@ -16,7 +16,7 @@ A bank has noticed an increase in its churn rates. A sample of 10,000 customers 
 
 # Data Visuals
 
-<img src= "(https://github.com/JMarcoOviedo/Bank_Customer_Churn-Model/blob/main/images/bank7.png)"/>
+<img src= "https://github.com/JMarcoOviedo/Bank_Customer_Churn-Model/blob/main/images/bank7.png"/>
 
 # Data Processing
 
