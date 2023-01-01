@@ -31,3 +31,7 @@ Looking at the Correlation Matrix we can see that the Balance and Number of Prod
 
 
 Here is the first five objects in the data set. For our ANN model we will not include the columns 'RowNumber', 'CustomerId', 'Surname' because they will not provide any useful information to our prediction model. Then after I will transform the categorical variable into binary values. 
+
+# ANN Model
+
+<img src= "https://github.com/JMarcoOviedo/Bank_Customer_Churn-Model/blob/main/images/Bank5.png"/>
