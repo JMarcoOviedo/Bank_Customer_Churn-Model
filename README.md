@@ -14,6 +14,10 @@ Packages: Pandas, NumPy, Matplotlib, Seaborn, Sklearn, TensorFlow
 # Introduction
 A bank has noticed an increase in its churn rates. A sample of 10,000 customers was taken with the information available to the bank. In this report, I will construct a  model using an Artificial Neural Network to find the probability of a customer terminating their service. This can be used to find customers with a churn probability greater than 50% and inform the bank to offer incentives for the customer to retain them.
 
+# Data Visuals
+
+<img src= "(https://github.com/JMarcoOviedo/Bank_Customer_Churn-Model/blob/main/images/bank7.png)"/>
+
 # Data Processing
 
 <img src="https://github.com/JMarcoOviedo/Bank_Customer_Churn-Model/blob/main/images/data.png"/>
