@@ -35,3 +35,4 @@ Here is the first five objects in the data set. For our ANN model we will not in
 # ANN Model
 
 <img src= "https://github.com/JMarcoOviedo/Bank_Customer_Churn-Model/blob/main/images/Bank5.png"/>
+After training the ANN model, it was able to achieve 86% accuracy in being able to predict if a bank customer would end their service at the bank.
